@@ -1,0 +1,23 @@
+.btn{
+    width: 500px;
+    background: #333;
+    color: #fff;
+    text-align: center;
+    margin:auto;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 50px;
+
+
+}
+
+.text{
+    width: 500px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    margin:auto;
+    padding: 10px;
+    display: none;
+   
+}
