@@ -3,6 +3,8 @@ div{
     height: 100px;
     background: red;
     margin-top: 50px;
-    
+    position: relative;
+    font-size: 25px;
+    padding: 10px;
 }
 
