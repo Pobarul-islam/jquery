@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	
-	$('#button1').click(function(){
+	/*$('#button1').click(function(){
 		alert("Babul:"+ $(".text").text())
 	});
 	
@@ -15,5 +15,10 @@ $(document).ready(function(){
 	
 	$(".button4").click(function(){
 		alert($(".input4").val());
+	})
+	*/
+	
+	$("input4").click(function(){
+		alert($("#fp").attr("href"))
 	})
 })
